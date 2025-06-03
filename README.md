@@ -19,10 +19,7 @@ This repository documents my Week 1 lab setup during my internship at **Infotact
 - Documented everything with screenshots and a video walkthrough
 
 ## 🎥 Video Walkthrough
-👉 [Watch on LinkedIn]([https://your-video-link.com](https://www.linkedin.com/posts/kalaiyarasan-g-63b452271_cybersecurity-internshipexperience-kalilinux-activity-7335667305655263234-mDVU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJzpg8BVqFKGMAPsagdbRy4MOxmrlStN1o))
-
-## 📸 Screenshots
-See the `screenshots/` folder for VM and scan images.
+👉 [Watch on LinkedIn]([https://your-video-link.com](https://www.linkedin.com/posts/kalaiyarasan-g-63b452271_cybersecurity-internshipexperience-kalilinux-activity-7335667305655263234-mDVU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJzpg8BVqFKGMAPsagdbRy4MOxmrlStN1o)
 
 ---
 
